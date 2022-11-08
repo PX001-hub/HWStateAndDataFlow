@@ -11,6 +11,8 @@
 		2CC3B90C29185DD8004CD60B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC3B90B29185DD8004CD60B /* ContentView.swift */; };
 		2CC3B90E29185DD9004CD60B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CC3B90D29185DD9004CD60B /* Assets.xcassets */; };
 		2CC3B91129185DD9004CD60B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CC3B91029185DD9004CD60B /* Preview Assets.xcassets */; };
+		2CC3B91829185E01004CD60B /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC3B91729185E01004CD60B /* ButtonView.swift */; };
+		2CC3B91A291923B0004CD60B /* TimeCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC3B919291923B0004CD60B /* TimeCounter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		2CC3B90B29185DD8004CD60B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2CC3B90D29185DD9004CD60B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CC3B91029185DD9004CD60B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2CC3B91729185E01004CD60B /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		2CC3B919291923B0004CD60B /* TimeCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCounter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				2CC3B90929185DD8004CD60B /* HWStateAndDataFlowApp.swift */,
 				2CC3B90B29185DD8004CD60B /* ContentView.swift */,
+				2CC3B919291923B0004CD60B /* TimeCounter.swift */,
+				2CC3B91729185E01004CD60B /* ButtonView.swift */,
 				2CC3B90D29185DD9004CD60B /* Assets.xcassets */,
 				2CC3B90F29185DD9004CD60B /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				2CC3B90C29185DD8004CD60B /* ContentView.swift in Sources */,
 				2CC3B90A29185DD8004CD60B /* HWStateAndDataFlowApp.swift in Sources */,
+				2CC3B91829185E01004CD60B /* ButtonView.swift in Sources */,
+				2CC3B91A291923B0004CD60B /* TimeCounter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
